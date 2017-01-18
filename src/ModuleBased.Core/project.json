@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.Extensions.Options.ConfigurationExtensions": "1.1.0"
+  },
+
+  "frameworks": {
+    "net46": {}
+  }
+}

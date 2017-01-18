@@ -3,3 +3,17 @@
 ################################################################################
 
 /src/ModuleBased.Core/bin/Debug/net46
+/src/ModuleBased.Core/obj/Debug/net46
+/src/ModuleBased.WebHost/bin/Debug/net46
+/src/ModuleBased.WebHost/Modules/ModuleBased.Module.Example/bin/Debug/net46
+/src/ModuleBased.WebHost/obj/Debug/net46
+/src/ModuleBased.WebHost/wwwroot/lib
+/src/Modules/ModuleBased.Module.Example/bin/Debug/net46
+/src/Modules/ModuleBased.Module.Example/obj/Debug/net46
+/src/Modules/ModuleBased.Module.Example.ViewModel/bin/Debug/net46
+/src/Modules/ModuleBased.Module.Example.ViewModel/obj/Debug/net46
+/src/Modules/ModuleBased.Module.Example/project.lock.json
+/src/Modules/ModuleBased.Module.Example.ViewModel/project.lock.json
+/src/ModuleBased.Core/project.lock.json
+/src/ModuleBased.WebHost/project.lock.json
+*.suo
